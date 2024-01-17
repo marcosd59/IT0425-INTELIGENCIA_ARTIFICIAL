@@ -11,6 +11,6 @@ function validador(string)
   return [letras, numeros, simbolos];
 }
 
-let cadena = "MarcosD59.net";
+let cadena = "MarcosD59.net Hola";
 
 console.log(validador(cadena));
