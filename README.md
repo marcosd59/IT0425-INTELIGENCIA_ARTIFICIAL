@@ -1,22 +1,16 @@
 # Introducción a la Inteligencia Artificial - IT0425
 
-## Integrantes
-
-**Nombre: Marcos Damián Pool Canul.**
-**Matricula: 200300591@ucaribe.edu.mx**
-
-**Nombre: Marcos Damián Pool Canul.**
-**Matricula: 200300591@ucaribe.edu.mx**
-
-**Profesor: Ricardo Armando Ruíz Hernández**
-
 Este repositorio contiene información y recursos relacionados con la asignatura "Introducción a la Inteligencia Artificial" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
 
-## Objetivos de la Asignatura
+## Integrantes
 
-- **Objetivo Cognitivo:** Describir los conceptos fundamentales de la inteligencia artificial para la creación de un marco teórico.
-- **Objetivo Procedimental:** Aplicar diferentes técnicas de Inteligencia Artificial para la solución de problemas adecuados.
-- **Objetivo Actitudinal:** Fomentar el espíritu emprendedor, el trabajo colaborativo y la responsabilidad para el desarrollo de proyectos.
+1. **Nombre: Marcos Damián Pool Canul.**
+**Matricula: 200300591@ucaribe.edu.mx**
+
+2. **Nombre: Marcos Damián Pool Canul.**
+**Matricula: 200300591@ucaribe.edu.mx**
+
+**Profesor: *Ricardo Armando Ruíz Hernández* **
 
 ## Unidades y Temas
 
