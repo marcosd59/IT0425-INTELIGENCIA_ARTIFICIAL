@@ -8,9 +8,7 @@ Este repositorio contiene información y recursos relacionados con la asignatura
 
 2. **Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
 
-## Profesor 
-
-1. Ricardo Armando Ruíz Hernández**
+***Profesor: Ricardo Armando Ruíz Hernández***
 
 ## Unidades y Temas
 
