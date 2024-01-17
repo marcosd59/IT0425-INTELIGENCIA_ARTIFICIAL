@@ -4,9 +4,9 @@ Este repositorio contiene información y recursos relacionados con la asignatura
 
 ## Integrantes
 
-1. **Nombre: Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
+1. **Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
 
-2. **Nombre: Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
+2. **Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
 
 **Profesor: Ricardo Armando Ruíz Hernández**
 
