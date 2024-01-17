@@ -1,6 +1,16 @@
 # Introducción a la Inteligencia Artificial - IT0425
 
-Este repositorio contiene información y recursos relacionados con la asignatura "Inteligencia Artificial" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
+## Integrantes
+
+**Nombre: Marcos Damián Pool Canul.**
+**Matricula: 200300591@ucaribe.edu.mx**
+
+**Nombre: Marcos Damián Pool Canul.**
+**Matricula: 200300591@ucaribe.edu.mx**
+
+**Profesor: Ricardo Armando Ruíz Hernández**
+
+Este repositorio contiene información y recursos relacionados con la asignatura "Introducción a la Inteligencia Artificial" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
 
 ## Objetivos de la Asignatura
 
