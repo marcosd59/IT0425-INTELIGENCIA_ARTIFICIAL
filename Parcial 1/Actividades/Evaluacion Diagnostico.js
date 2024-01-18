@@ -9,7 +9,6 @@ function validador(cadena)
   // Expresión regular que busca todos los símbolos (cualquier carácter que no sea letra ni número)
   let reExSimbolos = /[^a-zA-Z0-9]/g;
 
-
   let letras = cadena.match(regExLetras);
   let numeros = cadena.match(regExNumeros);
   let simbolos = cadena.match(reExSimbolos);
