@@ -1,5 +1,4 @@
-function validador(cadena)
-{
+function clasificador(cadena) {
   // Expresión regular que busca todas las letras (mayúsculas y minúsculas)
   let regExLetras = /[a-zA-Z]/g;
 
@@ -16,6 +15,7 @@ function validador(cadena)
   return [letras, numeros, simbolos];
 }
 
+let cadena = "¡Hola!, Marcosd59.";
+console.log(clasificador(cadena));
 
-let cadena = "MarcosD59.net";
-console.log(validador(cadena));
+// salida: [ [ 'H', 'o', 'l', 'a', 'M', 'a', 'r', 'c', 'o', 's', 'd' ], [ '5', '9' ], [ '¡', '!', ',', ' ', '.' ] ]
