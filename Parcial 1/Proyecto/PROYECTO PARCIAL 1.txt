@@ -1,1 +1,1 @@
-En esta carpeta se agregar el proyecto del parcial 1 de "Introduccion a la inteligencia artificial".
+Dentro de esta carpeta se agregara el proyecto del parcial 1 de "Introduccion a la inteligencia artificial".
