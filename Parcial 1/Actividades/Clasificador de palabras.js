@@ -12,10 +12,16 @@ function clasificador(cadena) {
   let numeros = cadena.match(regExNumeros);
   let simbolos = cadena.match(reExSimbolos);
 
+  console.log("Caracteres: ", letras);
+  console.log("Números: ", numeros);
+  console.log("Símbolos: ", simbolos);
+
   return [letras, numeros, simbolos];
 }
 
-let cadena = "¡Hola!, Marcosd59.";
-console.log(clasificador(cadena));
+let cadena = "¡Hola 1234!";
+clasificador(cadena);
 
-// salida: [ [ 'H', 'o', 'l', 'a', 'M', 'a', 'r', 'c', 'o', 's', 'd' ], [ '5', '9' ], [ '¡', '!', ',', ' ', '.' ] ]
+// Caracteres: [ 'H', 'o', 'l', 'a' ]
+// Números:    [ '1', '2', '3', '4' ]
+// Símbolos:   [ '¡', ' ', '!' ]
