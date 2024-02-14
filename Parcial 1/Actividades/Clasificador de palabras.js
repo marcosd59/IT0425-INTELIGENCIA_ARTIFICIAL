@@ -26,6 +26,7 @@ function clasificador(cadena) {
 let cadena = "¡Hola 1234!";
 clasificador(cadena);
 
+// Salida esperada:
 // Caracteres: [ 'H', 'o', 'l', 'a' ]
 // Números:    [ '1', '2', '3', '4' ]
 // Símbolos:   [ '¡', ' ', '!' ]
