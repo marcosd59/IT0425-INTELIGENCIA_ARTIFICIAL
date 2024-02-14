@@ -6,7 +6,7 @@ Este repositorio contiene información y recursos relacionados con la asignatura
 
 1. **Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
 
-2. **Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
+2. **Oscar Manuel Ruiz Reyes. 190300392@ucaribe.edu.mx**
 
 ***Profesor: Ricardo Armando Ruíz Hernández***
 
