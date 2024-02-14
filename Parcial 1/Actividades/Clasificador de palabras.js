@@ -1,3 +1,7 @@
+/*
+Crear un programa que pida al usuario ingresar una palabra y como resultado debe separar las letras, caracteres y números.
+*/
+
 function clasificador(cadena) {
   // Expresión regular que busca todas las letras (mayúsculas y minúsculas)
   let regExLetras = /[a-zA-Z]/g;
