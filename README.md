@@ -1,6 +1,6 @@
 # Introducción a la inteligencia artificial - IT0425
 
-Este repositorio contiene información y recursos relacionados con la asignatura "Introducción a la Inteligencia Artificial" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
+Este repositorio contiene las actividades y proyectos relacionados con la asignatura "Introducción a la Inteligencia Artificial" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
 
 ## Integrantes
 
