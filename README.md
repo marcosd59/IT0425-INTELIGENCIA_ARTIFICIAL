@@ -1,6 +1,6 @@
 # Introducción a la inteligencia artificial - IT0425
 
-Este repositorio contiene las actividades y proyectos relacionados con la asignatura "Introducción a la Inteligencia Artificial" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
+Este repositorio contiene las actividades y proyectos relacionados con la asignatura "Introducción a la Inteligencia Artificial".
 
 ## Integrantes
 
@@ -47,7 +47,3 @@ En esta unidad, se aplican redes bayesianas para el modelado de fenómenos con m
 3. **Patrones de inferencia en redes bayesianas**
 4. **Evidencia incierta**
 5. **Inferencia probabilística en poli-árboles**
-
-```bash
-git clone https://github.com/marcosd59/IT0425-INTELIGENCIA_ARTIFICIAL.git
-```
