@@ -1,0 +1,11 @@
+Grafo,Colores,Fitness
+Graph with 8 nodes and 11 edges,"['green', 'blue', 'blue', 'green', 'green', 'blue', 'blue', 'green']",4
+Graph with 8 nodes and 11 edges,"['green', 'green', 'green', 'blue', 'red', 'green', 'red', 'blue']",4
+Graph with 8 nodes and 11 edges,"['blue', 'red', 'blue', 'red', 'red', 'red', 'green', 'green']",4
+Graph with 8 nodes and 11 edges,"['red', 'green', 'blue', 'green', 'green', 'red', 'blue', 'blue']",3
+Graph with 8 nodes and 11 edges,"['red', 'red', 'blue', 'green', 'blue', 'red', 'green', 'red']",1
+Graph with 8 nodes and 11 edges,"['blue', 'red', 'red', 'red', 'red', 'blue', 'red', 'green']",4
+Graph with 8 nodes and 11 edges,"['green', 'red', 'green', 'blue', 'blue', 'red', 'blue', 'blue']",5
+Graph with 8 nodes and 11 edges,"['green', 'green', 'red', 'green', 'blue', 'blue', 'green', 'green']",3
+Graph with 8 nodes and 11 edges,"['red', 'blue', 'red', 'green', 'green', 'green', 'blue', 'blue']",4
+Graph with 8 nodes and 11 edges,"['blue', 'blue', 'blue', 'blue', 'green', 'blue', 'blue', 'red']",5
