@@ -1,11 +1,11 @@
 Grafo,Colores,Fitness
-Graph with 8 nodes and 11 edges,"['blue', 'green', 'green', 'red', 'red', 'red', 'red', 'green']",6
-Graph with 8 nodes and 11 edges,"['red', 'red', 'blue', 'green', 'blue', 'red', 'blue', 'blue']",5
-Graph with 8 nodes and 11 edges,"['green', 'blue', 'blue', 'red', 'red', 'red', 'blue', 'green']",3
-Graph with 8 nodes and 11 edges,"['red', 'blue', 'red', 'red', 'red', 'green', 'red', 'green']",4
-Graph with 8 nodes and 11 edges,"['green', 'blue', 'blue', 'blue', 'blue', 'red', 'red', 'green']",4
-Graph with 8 nodes and 11 edges,"['green', 'red', 'green', 'green', 'green', 'green', 'green', 'red']",6
-Graph with 8 nodes and 11 edges,"['red', 'green', 'blue', 'green', 'green', 'green', 'red', 'red']",3
-Graph with 8 nodes and 11 edges,"['green', 'green', 'red', 'green', 'blue', 'green', 'blue', 'red']",3
-Graph with 8 nodes and 11 edges,"['red', 'red', 'green', 'green', 'red', 'green', 'green', 'red']",4
-Graph with 8 nodes and 11 edges,"['red', 'red', 'green', 'red', 'blue', 'green', 'red', 'blue']",2
+Graph with 8 nodes and 11 edges,"['green', 'green', 'green', 'red', 'green', 'blue', 'red', 'red']",4
+Graph with 8 nodes and 11 edges,"['red', 'blue', 'red', 'blue', 'red', 'green', 'blue', 'red']",3
+Graph with 8 nodes and 11 edges,"['blue', 'red', 'blue', 'blue', 'red', 'green', 'green', 'green']",4
+Graph with 8 nodes and 11 edges,"['green', 'red', 'blue', 'blue', 'red', 'red', 'blue', 'red']",3
+Graph with 8 nodes and 11 edges,"['red', 'red', 'blue', 'red', 'green', 'blue', 'red', 'green']",2
+Graph with 8 nodes and 11 edges,"['red', 'green', 'red', 'blue', 'green', 'red', 'green', 'green']",4
+Graph with 8 nodes and 11 edges,"['blue', 'green', 'blue', 'blue', 'red', 'red', 'red', 'blue']",6
+Graph with 8 nodes and 11 edges,"['red', 'red', 'blue', 'green', 'red', 'red', 'red', 'green']",4
+Graph with 8 nodes and 11 edges,"['blue', 'green', 'blue', 'red', 'red', 'red', 'blue', 'red']",4
+Graph with 8 nodes and 11 edges,"['red', 'blue', 'red', 'blue', 'green', 'blue', 'red', 'green']",2
